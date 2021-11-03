@@ -3,7 +3,8 @@ This is the repository for archiving my kaggle_kernel study.
 For this kernel curriculum, following links helped me.
 
 (Kaggle GM, Lee Youhan)
-**[Mainly Tabular + Some DL]**(https://kaggle-kr.tistory.com/32)
+
+**[Mainly Tabular + Some DL]** (https://kaggle-kr.tistory.com/32)
 ---
 (Kaggle 4xGM Abhishsek)
 **[Vision]**(https://www.youtube.com/watch?v=1-myowrUhok)

@@ -3,18 +3,18 @@ This is the repository for archiving my kaggle_kernel study.
 For this kernel curriculum, following links helped me.
 
 (Kaggle GM, Lee Youhan)
+#### [Mainly Tabular + Some DL](https://kaggle-kr.tistory.com/32)
 
-**[Mainly Tabular + Some DL]** (https://kaggle-kr.tistory.com/32)
 ---
 (Kaggle 4xGM Abhishsek)
-**[Vision]**(https://www.youtube.com/watch?v=1-myowrUhok)
-<br></br>
-**[NLP]**(https://www.youtube.com/watch?v=-nH4OSyjwSI)
+#### [Vision Competition](https://www.youtube.com/watch?v=1-myowrUhok)
+#### [NLP Competition](https://www.youtube.com/watch?v=-nH4OSyjwSI)
 
 ---
 
-_Note_: I customized(sometimes, omitted) some codes for reproducibility.
+_Note_:  Customized(sometimes, omitted) some codes for reproducibility.
 
+---
 
 (21/11/03) NLP : `Spooky Author identification` Done!
 
